@@ -14,9 +14,8 @@ end
 
 def self.all
 
-  @@all.each do |x|
-    puts x
-  end
+  @@all
+
 end
 
 end
